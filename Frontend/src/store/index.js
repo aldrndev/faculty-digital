@@ -1,6 +1,7 @@
 import axios from 'axios';
 import { create } from 'zustand';
 
+// const BASE_URL = 'https://facultybackend.aldrincloud.com';
 const BASE_URL = 'http://localhost:3000';
 
 export const useLoginStore = create((set) => ({
