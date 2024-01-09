@@ -1,0 +1,20 @@
+[
+  {
+    "productName": "Cotton Well",
+    "imageUrl": "https://static-id.zacdn.com/p/cotton-well-4133-2052773-2.jpg",
+    "price": 350000,
+    "userId": 1
+  },
+  {
+    "productName": "Marks & Spencer",
+    "imageUrl": "https://static-id.zacdn.com/p/marks-spencer-2909-7783824-2.jpg",
+    "price": 3500000,
+    "userId": 1
+  },
+  {
+    "productName": "LLACES",
+    "imageUrl": "https://static-id.zacdn.com/p/llaces-1897-0895723-2.jpg",
+    "price": 2000000,
+    "userId": 1
+  }
+]
